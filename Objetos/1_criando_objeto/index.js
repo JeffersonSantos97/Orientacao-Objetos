@@ -4,7 +4,10 @@ let carro = {
     ano: 2011,
 }
 
-console.log(carro) // Chama o objeto completo
+// Chama o objeto completo
+console.log(carro) // 4 preto 2011
 
-console.log(carro.porta) // chama só a propriedade PORTA q está dentro do obj carro 
+// chama só a propriedade PORTA q está dentro do obj carro 
+console.log(carro.porta) // 4 
+ 
 

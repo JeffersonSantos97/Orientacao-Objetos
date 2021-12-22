@@ -4,8 +4,8 @@ let carro = {
     cor: "preto",
     ano: 2011,
 }
-
-console.log( " primeira forma ", carro.porta) // 1° forma de chamar uma propriedade 
+// 1° forma de chamar uma propriedade 
+console.log( " primeira forma ", carro.porta) // Primeira forma: 4 
 
 // Usando propriedades do obj com if 
 
